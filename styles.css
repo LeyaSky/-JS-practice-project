@@ -6,73 +6,73 @@
     box-sizing: border-box;
     -moz-box-sizing: border-box;
     -webkit-box-sizing: border-box;
-  }
-  
-  :focus, :active {
+}
+
+:focus, :active {
     outline: none;
-  }
-  
-  a:focus, a:active {
+}
+
+a:focus, a:active {
     outline: none;
-  }
-  
-  nav, footer, header, aside {
+}
+
+nav, footer, header, aside {
     display: block;
-  }
-  
-  a {
+}
+
+a {
     text-decoration: none;
-  }
-  
-  ul, ol, li {
+}
+
+ul, ol, li {
     list-style: none;
-  }
-  
-  h1, h2, h3, h4, h5, h6 {
+}
+
+h1, h2, h3, h4, h5, h6 {
     font-weight: inherit;
     font-size: inherit;
-  }
-  
-  html, body {
+}
+
+html, body {
     height: 100%;
     width: 100%;
     line-height: 1;
     -ms-text-size-adjust: 100%;
     font-family: Smokum,sans-serif;
     letter-spacing: 30px;
-  }
-  
-  input, button, textarea {
+}
+
+input, button, textarea {
     font-family: inherit;
-  }
-  
-  input::-ms-clear {
+}
+
+input::-ms-clear {
     display: none;
-  }
-  
-  button {
+}
+
+button {
     cursor: pointer;
-  }
-  
-  button::-moz-focus-inner {
+}
+
+button::-moz-focus-inner {
     padding: 0;
     border: 0;
-  }
-  
-  a, a:visited {
-    text-decoration: none;
-  }
-  
-  a:hover {
-    text-decoration: none;
-  }
-  
-  img {
-    vertical-align: top;
-  }
-  
+}
 
-  /*====================== SECTION =========================*/
+a, a:visited {
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: none;
+}
+
+img {
+    vertical-align: top;
+}
+
+
+/*====================== SECTION =========================*/
 .body{
 
 }
